@@ -10,40 +10,40 @@ I am a **Data Science** student in my 4th semester at the **Institute of Managem
 - 💡 **Machine Learning Learner**: Currently exploring **scikit-learn, regression models, and evaluation metrics**.  
 - 💻 **Software Developer**: Experience in **Java (NetBeans)** and developing small-scale management systems.  
 - 🛢 **Database Integration**: Worked with **MySQL** and **PostgreSQL** for backend development.  
-- 📈 **Statistics & Analytics**: Proficient in **Power BI, R language** for statistical analysis and visualization.  
+- 📈 **Statistics & Analytics**: Proficient in **Power BI**, **R**, and statistical analysis techniques.  
 
 ---
 
 ## 🚀 Projects & Learning  
-✔ **Python for Data Science**: NumPy & Pandas for preprocessing, scikit-learn for regression models.  
+✔ **Python for Data Science**: **NumPy** & **Pandas** for preprocessing, **scikit-learn** for regression models.  
 ✔ **GUI-Based Applications**: Developed small-scale GUI applications in **Tkinter & Java NetBeans**.  
 ✔ **Database Management**: Integrated **Python with MySQL & PostgreSQL** for data storage solutions.  
 ✔ **Machine Learning Basics**: Implemented **Linear Regression & Confusion Matrix** on small datasets.  
 ✔ **Power BI Data Visualization**:  
-   - 📊 HR Data Visualization & Analytics  
-   - 🚀 Space Mission Data Visualization & Analytics  
-   - 💰 Personal Financial Data Visualization & Analytics  
-   - ⚽ Sports Data Visualization & Analytics  
+   - 📊 **HR Data Visualization & Analytics**  
+   - 🚀 **Space Mission Data Visualization & Analytics**  
+   - 💰 **Personal Financial Data Visualization & Analytics**  
+   - ⚽ **Sports Data Visualization & Analytics**  
 
 ---
 
 ## 🛠 Languages & Tools  
 
 ### **Programming & Scripting:**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)  
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=mysql)  
-![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r)  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-F29111?style=flat&logo=mysql&logoColor=white)  
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ### **Data Science & Visualization:**  
-**Power BI** (Dashboarding & Reporting)  
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat&logo=mathworks)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF7F00?style=flat&logo=mathworks&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
 ### **Hardware & Simulation:**  
-**Arduino** (Microcontroller Programming)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
 **Multisim** (Circuit Simulation)  
 
 ---
@@ -56,22 +56,5 @@ I am a **Data Science** student in my 4th semester at the **Institute of Managem
 ---
 
 ## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/irfanullah-data-analyst)  
-✉️ **Email:** [irfanbettaniofficial@gmail.com](mailto:irfanbettaniofficial@gmail.com)  
-
----
-
-### 🔥 Enhancements & Fixes:  
-✅ **Finalized GitHub Username** (`IrfanUllah312`) in Stats Section.  
-✅ **Used Text-Based Mentions** for **Power BI & Multisim** (since no official badge exists).  
-✅ **Formatted Sections for Readability**.  
-
----
-
-### 🎯 **Final Steps for You:**  
-🔹 **Verify your LinkedIn link** is correct and working.  
-🔹 **Commit & Push** this README to your GitHub profile.  
-
----
-
-🚀 **This is now fully optimized for your GitHub!** Let me know if you need any last tweaks. 😊  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanullah-data-analyst)  
+✉️ **Email:** [irfanbettaniofficial@gmail.com](mailto:irfanbettaniofficial@gmail.com)    
